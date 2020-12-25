@@ -96,9 +96,8 @@ let footer = $(`
     <div class="row">
       <div class="col-lg-7 col-md-6 pt-3" >
       <div class="col-sm-12 col-md-10 ml-lg-4">
-        <a class="webintern-footer-logo col-12 d-none d-md-inline-block" href="#">
-          <center><img src="assets/images/logo1.png"style="width: 220px;"/></center>
-        </a>
+        <a class="twitter-timeline" href="https://twitter.com/nimeshbuddhika?ref_src=twsrc%5Etfw">Tweets by nimeshbuddhika</a> 
+        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
         <div class="simple-text text-center dark padding-sm">
           <p >
             "Develop a passion for learning. If you do, you will never cease to grow."
