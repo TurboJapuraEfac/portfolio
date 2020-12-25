@@ -1,5 +1,6 @@
 //common side navbar call
 
+
 $(document).ready(function () {
   $(".sidenav").sidenav();
 });
@@ -31,7 +32,7 @@ function topFunction() {
 let header = $(`
 <nav class="fixed-top black">
 <div class="nav-wrapper">
-    <a href="#!" class="brand-logo"><img src="assets/images/logo1.png height="50" width="200""></a>
+    <a href="#!" class="brand-logo white-text">Buddhika</a>
     <a href="#" data-target="mobile-demo" class="white-text sidenav-trigger"><i
             class="material-icons">menu</i></a>
     <ul class="right hide-on-med-and-down">
@@ -96,35 +97,12 @@ let footer = $(`
     <div class="row">
       <div class="col-lg-7 col-md-6 pt-3" >
       <div class="col-sm-12 col-md-10 ml-lg-4">
-        <a class="twitter-timeline" href="https://twitter.com/nimeshbuddhika?ref_src=twsrc%5Etfw">Tweets by nimeshbuddhika</a> 
-        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-         
-        <div class="row">
-         <div class="col-md-4"></div>
-         <div class="container">
-            <div class="col-md-4">
-               <div class="panel panel-danger">
-                  <div class="panel-heading">
-                     <h3 class="panel-title"><i class="fa fa-twitter-square" aria-hidden="true"></i>
-                        Solodev Live
-                     </h3>
-                  </div>
-                  <div class="panel-body">
-                     <a class="twitter-timeline" data-width="100%" href="https://twitter.com/solodev">Tweets by solodev</a> 
-                  </div>
-               </div>
-            </div>
-         </div>
-         <div class="col-md-4">
-         </div>
-      </div>
-      <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
+        <a class="webintern-footer-logo col-12 d-none d-md-inline-block" href="#">
+          <center><img src="assets/images/logo1.png"style="width: 220px;"/></center>
+        </a>
         <div class="simple-text text-center dark padding-sm">
           <p >
-            "Develop a passion for learning. If you do, you will never cease to grow."
+            "Let's change the world for the betterment of humanity."
           </p>
         <div class="empty-space xs-25 sm-25"></div>
       </div>
@@ -132,28 +110,26 @@ let footer = $(`
     <!-- Social media icons for footer -->
 
 <div class="social-icons-footer mx-lg-auto">
-  <a class="social-icon-footer twitter" href="" target="_blank" rel="author">
+  <a class="social-icon-footer twitter" href="https://twitter.com/nimeshbuddhika" target="_blank" rel="author">
     <i class="fab fa-twitter"></i>
       </a>
-  <a class="social-icon-footer dribbble" href="" target="_blank" rel="author">
-    <i class="fab fa-dribbble"></i>
-      </a>
-  <a class="social-icon-footer linkedin" href="" target="_blank" rel="author">
+  <a class="social-icon-footer linkedin" href="https://www.linkedin.com/in/buddhika-weerasinghe-8494a1109/" target="_blank" rel="author">
     <i class="fab fa-linkedin-in"></i>
       </a>
-  <a class="social-icon-footer medium" href="" target="_blank" rel="author">
-    <i class="fab fa-medium-m"></i>
-      </a>
-  <a class="social-icon-footer kaggle" href="" target="_blank" rel="author">
-    <i class="fab fa-kaggle"></i>
-      </a>
-  <a class="social-icon-footer github" href="" target="_blank" rel="author">
-    <i class="fab fa-github"></i>
-      </a>
+   <a class="social-icon dev" href="https://dev.to/nimeshbuddhika" target="_blank" rel="author">
+    <i class="fab fa-dev"></i>
+   </a>
+  <a class="social-icon hackerrank" href="https://www.hackerrank.com/kosbuddhika" target="_blank" rel="author">
+      <i class="fab fa-hackerrank"></i>
+  </a>
+
+  <a class="social-icon github" href="https://github.com/TurboJapuraEfac" target="_blank" rel="author">
+       <i class="fab fa-github"></i>
+  </a>
   </div>
 
   <div class="col-12 text-center">
-  <p><a href=" " class="col-sm-12 text-white">contact@johndoe.com</a></p>
+  <p><a href=" " class="col-sm-12 text-white">kosbuddhika@gmail.com</a></p>
   </div>
 
   </div>
@@ -190,7 +166,7 @@ let footer = $(`
 
 <!-- <div class="tt-copy">
   <div class="container col-sm-6">
-   <center class="text-animation">Made with <i class="fa fa-heart" style="color: red;"></i></center>
+   <center class="text-animation">Redesigned by Buddhika Weerasinghe <i class="fa fa-heart" style="color: red;"></i></center>
   </div>
 </div> -->
 
