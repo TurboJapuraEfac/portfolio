@@ -98,6 +98,30 @@ let footer = $(`
       <div class="col-sm-12 col-md-10 ml-lg-4">
         <a class="twitter-timeline" href="https://twitter.com/nimeshbuddhika?ref_src=twsrc%5Etfw">Tweets by nimeshbuddhika</a> 
         <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+         
+        <div class="row">
+         <div class="col-md-4"></div>
+         <div class="container">
+            <div class="col-md-4">
+               <div class="panel panel-danger">
+                  <div class="panel-heading">
+                     <h3 class="panel-title"><i class="fa fa-twitter-square" aria-hidden="true"></i>
+                        Solodev Live
+                     </h3>
+                  </div>
+                  <div class="panel-body">
+                     <a class="twitter-timeline" data-width="100%" href="https://twitter.com/solodev">Tweets by solodev</a> 
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="col-md-4">
+         </div>
+      </div>
+      <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
         <div class="simple-text text-center dark padding-sm">
           <p >
             "Develop a passion for learning. If you do, you will never cease to grow."
