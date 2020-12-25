@@ -116,14 +116,14 @@ let footer = $(`
   <a class="social-icon-footer linkedin" href="https://www.linkedin.com/in/buddhika-weerasinghe-8494a1109/" target="_blank" rel="author">
     <i class="fab fa-linkedin-in"></i>
       </a>
-   <a class="social-icon dev" href="https://dev.to/nimeshbuddhika" target="_blank" rel="author">
+   <a class="social-icon-footer dev" href="https://dev.to/nimeshbuddhika" target="_blank" rel="author">
     <i class="fab fa-dev"></i>
    </a>
-  <a class="social-icon hackerrank" href="https://www.hackerrank.com/kosbuddhika" target="_blank" rel="author">
+  <a class="social-icon-footer hackerrank" href="https://www.hackerrank.com/kosbuddhika" target="_blank" rel="author">
       <i class="fab fa-hackerrank"></i>
   </a>
 
-  <a class="social-icon github" href="https://github.com/TurboJapuraEfac" target="_blank" rel="author">
+  <a class="social-icon-footer github" href="https://github.com/TurboJapuraEfac" target="_blank" rel="author">
        <i class="fab fa-github"></i>
   </a>
   </div>
@@ -164,11 +164,11 @@ let footer = $(`
   </div>
 </div>
 
-<!-- <div class="tt-copy">
+<div class="tt-copy">
   <div class="container col-sm-6">
-   <center class="text-animation">Redesigned by Buddhika Weerasinghe <i class="fa fa-heart" style="color: red;"></i></center>
+   <center class="text-animation">Recreated by Buddhika Weerasinghe</i></center>
   </div>
-</div> -->
+</div> 
 
 </footer>`);
 let bodyElement = $(`body`);
