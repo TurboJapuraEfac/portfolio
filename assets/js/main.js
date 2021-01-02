@@ -41,7 +41,7 @@ let header = $(`
         <li><a class="white-text" href="research.html">Research</a></li>
         <li><a class="white-text" href="education.html">Education</a></li>
         <li><a class="white-text" href="index.html">Posts</a></li>
-        <li><a class="white-text" href="https://docs.google.com/document/d/1-SX2Pz1rD9D1IS-r5PpCCb1JeihSM_BtnI5Y9uruQGc/edit?usp=sharing" target="_blank">My Resume</a></li>
+        <li><a class="white-text" href="https://drive.google.com/file/d/1lD43kaYkaeDzhmWNTFNSGVlZHrEnFvNp/view?usp=sharing" target="_blank">My Resume</a></li>
         <!--TOGGLE FOR LIGHT/DARK MODE-->
         <li>
         <label for="switch" class="theme-switch">
@@ -69,7 +69,7 @@ let header = $(`
 <li><a href="research.html">Research</a></li>
 <li><a href="education.html">Education</a></li>
 <li><a href="index.html">Blog</a></li>
-<li><a href="https://docs.google.com/document/d/1-SX2Pz1rD9D1IS-r5PpCCb1JeihSM_BtnI5Y9uruQGc/edit?usp=sharing" target="_blank">My Resume</a></li>
+<li><a href="https://drive.google.com/file/d/1lD43kaYkaeDzhmWNTFNSGVlZHrEnFvNp/view?usp=sharing" target="_blank">My Resume</a></li>
 
 
 <!--TOGGLE FOR LIGHT/DARK MODE-->
@@ -164,9 +164,9 @@ let footer = $(`
 </div>
 
 <div class="tt-copy">
-  <div class="container col-sm-6">
+  <!-- <div class="container col-sm-6">
    <center class="text-animation">Recreated by Buddhika Weerasinghe</i></center>
-  </div>
+  </div> -->
 </div> 
 
 </footer>`);
