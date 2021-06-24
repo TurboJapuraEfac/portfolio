@@ -5,29 +5,24 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
-    title: "Data Science",
-    cardImage: "assets/images/education-page/coursera1.png",
-    moocLink: "https://www.coursera.org/browse/data-science",
+    title: "Machine Learning",
+    cardImage: "assets/images/education-page/machine learning with python.png"
   },
   {
-    title: "Cryptography",
-    cardImage: "assets/images/education-page/udemy.png",
-    moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
+    title: "Apache Spark",
+    cardImage: "assets/images/education-page/Apache Spark.png"
+  },
+  {
+    title: "Keras",
+    cardImage: "assets/images/education-page/Keras.png"
   },
   {
     title: "Machine Learning",
-    cardImage: "assets/images/education-page/coursera1.png",
-    moocLink: "https://www.coursera.org/learn/machine-learning",
+    cardImage: "assets/images/education-page/machine leaening stan.png"
   },
   {
-    title: "Introduction to HTML 5",
-    cardImage: "assets/images/education-page/udacity_logo.png",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
-  },
-  {
-    title: "Introduction to CSS 3",
-    cardImage: "assets/images/education-page/udacity_logo.png",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
+    title: "Tensorflow",
+    cardImage: "assets/images/education-page/tensorflow.png"
   },
   {
     title: "Javascript",
