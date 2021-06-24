@@ -22,7 +22,7 @@ const moocscards = [
   },
   {
     title: "Tensorflow",
-    cardImage: "assets/images/education-page/tensorflow.PNG"
+    cardImage: "assets/images/education-page/tensor flow.PNG"
   },
   {
     title: "Javascript",
