@@ -6,23 +6,23 @@ const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
     title: "Machine Learning",
-    cardImage: "assets/images/education-page/machine learning with python.png"
+    cardImage: "assets/images/education-page/machine learning with python.PNG"
   },
   {
     title: "Apache Spark",
-    cardImage: "assets/images/education-page/Apache Spark.png"
+    cardImage: "assets/images/education-page/Apache Spark.PNG"
   },
   {
     title: "Keras",
-    cardImage: "assets/images/education-page/Keras.png"
+    cardImage: "assets/images/education-page/Keras.PNG"
   },
   {
     title: "Machine Learning",
-    cardImage: "assets/images/education-page/machine leaening stan.png"
+    cardImage: "assets/images/education-page/machine leaening stan.PNG"
   },
   {
     title: "Tensorflow",
-    cardImage: "assets/images/education-page/tensorflow.png"
+    cardImage: "assets/images/education-page/tensorflow.PNG"
   },
   {
     title: "Javascript",
