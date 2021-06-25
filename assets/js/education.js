@@ -6,23 +6,28 @@ const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
     title: "Machine Learning",
-    cardImage: "assets/images/education-page/machine learning with python.PNG"
+    cardImage: "assets/images/education-page/machine learning with python.PNG",
+    moocLink: "https://www.udemy.com/course/bootstrap-4-tutorials/",
   },
   {
     title: "Apache Spark",
-    cardImage: "assets/images/education-page/Apache Spark.PNG"
+    cardImage: "assets/images/education-page/Apache Spark.PNG",
+    moocLink: "https://www.udemy.com/course/bootstrap-4-tutorials/",
   },
   {
     title: "Keras",
-    cardImage: "assets/images/education-page/Keras.PNG"
+    cardImage: "assets/images/education-page/Keras.PNG",
+    moocLink: "https://www.udemy.com/course/bootstrap-4-tutorials/",
   },
   {
     title: "Machine Learning",
-    cardImage: "assets/images/education-page/machine leaening stan.PNG"
+    cardImage: "assets/images/education-page/machine leaening stan.PNG",
+    moocLink: "https://www.udemy.com/course/bootstrap-4-tutorials/",
   },
   {
     title: "Tensorflow",
-    cardImage: "assets/images/education-page/tensor flow.PNG"
+    cardImage: "assets/images/education-page/tensor flow.PNG",
+    moocLink: "https://www.udemy.com/course/bootstrap-4-tutorials/",
   },
   {
     title: "Javascript",
